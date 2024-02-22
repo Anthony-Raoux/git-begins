@@ -1,0 +1,85 @@
+html {
+  font-size: 10px;  
+  font-family: "Open Sans", sans-serif body
+  font-family: 'Tangerine', serif;
+  font-size: 48px;
+  text-shadow: 4px 4px 4px #aaa;
+}
+h1 {
+  font-size: 60px;
+  text-align: center;
+}
+
+p,
+li {
+  font-size: 16px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+p {
+  font-family: Helvetica, "Trebuchet MS", Verdana, sans-serif;
+}
+  img {border: 1px solid #ddd;
+    border-radius: 4px;
+    padding: 5px;
+    width: 120px;
+    display: block;
+  margin: 0 auto;
+  }
+  
+  img:hover {
+    box-shadow: 0 0 2px 1px rgba(0, 140, 186, 0.5);
+  }
+  
+  <a href="paris.jpg">
+    <img src="paris.jpg" alt="Paris">
+  </a>}
+   p,
+  li,
+  h1 {
+    color: purple;
+    margin: 0;
+  padding: 20px 0;
+  color: #20ee95;
+  text-shadow: 3px 3px 1px rgb(211, 19, 19);
+  }
+  html {
+    background-color: pink;
+  }
+  body {
+    width: 600px;
+    margin: 0 auto;
+    background-color: rgb(254, 186, 255);
+    padding: 0 20px 20px 20px;
+    border: 10px solid black;
+  }
+  table {
+    border-collapse: collapse;
+    border: 2px solid rgb(140 140 140);
+    font-family: sans-serif;
+    font-size: 0.8rem;
+    letter-spacing: 1px;
+  }
+  
+  caption {
+    caption-side: bottom;
+    padding: 10px;
+    font-weight: bold;
+  }
+  
+  thead,
+  tfoot {
+    background-color: rgb(228 240 245);
+  }
+  th,
+td {
+  border: 1px solid rgb(160 160 160);
+  padding: 8px 10px;
+}
+
+td:last-of-type {
+  text-align: center;
+}
+
+tbody > tr:
